@@ -1,15 +1,15 @@
 #### About
 Introduction of Angular4 course project, including:
-Angular CLI
-Components
-Services
-Types
-Directives
-Events
-ngIf
-ngModel & Data Binding
-Services & HTTP
-Routing
+Angular CLI,
+Components,
+Services,
+Types,
+Directives,
+Events,
+ngIf,
+ngModel & Data Binding,
+Services & HTTP,
+Routing,
 NgModule
 
 #### Angular Version History
@@ -38,7 +38,7 @@ Classes that send data and functionality across Components
 - ```npm install -g @angular/cli```
 - ```ng new [application name]```
 - run application on a development server ```ng serve```
-- 如何建一个components: create components folder and then ```ng g component components/user```
+- How to create components: create components folder and then ```ng g component components/user```
 
 #### Deal with the backend data (demo with jsonplaceholder fake data):
 - Inside the app folder, create a "services" folder
